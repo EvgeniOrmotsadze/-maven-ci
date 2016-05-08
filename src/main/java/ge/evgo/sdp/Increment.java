@@ -13,4 +13,10 @@ public class Increment {
         return a + a;
     }
 
+    public int incByValue(int a, int b){
+        return a+b;
+    }
+
+
+
 }
